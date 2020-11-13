@@ -2,6 +2,6 @@
 Everything i learn daily
 
 # Redis
-Search for memory or bigkeys on redis
+### h3 Search Big Keys
 * bigkeys: redis-cli -h --bigkeys
 * memkeys: redis-cli -h --memkeys
